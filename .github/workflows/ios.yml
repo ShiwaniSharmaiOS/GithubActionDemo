@@ -17,7 +17,7 @@ jobs:
     - name: Set up Xcode
       uses: maxim-lobanov/setup-xcode@v1
       with:
-        xcode-version: '14.2'  # or another version if '14.2' is not available
+        xcode-version: '14.3'  # or another version if '14.2' is not available
 
     - name: Install dependencies
       run: |
